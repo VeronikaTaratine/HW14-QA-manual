@@ -8,6 +8,7 @@ body {
 }
 h1 {
   color: blue;
+  
 }
 h2 {
   color: blue;
@@ -20,3 +21,28 @@ h2 {
 .firstname{
   color: red;
 }
+
+
+.lg{
+  font-size: 40px;
+}
+
+
+.tel{
+  font-size: 30px;
+  font-weight: bold;
+  color: blueviolet;
+  text-align: right;
+}
+.number{
+  font-size: 40px;
+  color: green;
+  text-align: center;
+}
+.email{
+  font-size: 50px;
+  color: indigo;
+  text-align: left;
+}
+
+
