@@ -17,6 +17,9 @@ h2 {
   color: green;
   text-decoration: none;
 }
-.firstname{
+.firstname {
   color: red;
+}
+.h1 {
+  border: 3px blue solid;
 }
